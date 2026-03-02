@@ -7,3 +7,5 @@ Comando que vimos el dia de hoy
 - cd
 
 - ls
+
+- git reset: para revertir cambios
