@@ -1,3 +1,5 @@
+print("===Calculadora version 1.0.0===")
+
 def sumar(a, b):
     return a + b
 
